@@ -1,2 +1,3 @@
+#!/bin/bash
 ext2ls ${p_class} ${p_device} ${prefix}
 # vim:ft=sh

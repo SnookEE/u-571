@@ -1,3 +1,4 @@
+#!/bin/bash
 # m_load_env
 # load and import/merge u-boot environment
 #
